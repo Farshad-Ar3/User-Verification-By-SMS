@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Verification By SMS", "User Verification By SMS\User Verification By SMS.csproj", "{B884E2AA-14C6-4965-8CC4-D9198A067B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B884E2AA-14C6-4965-8CC4-D9198A067B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B884E2AA-14C6-4965-8CC4-D9198A067B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B884E2AA-14C6-4965-8CC4-D9198A067B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B884E2AA-14C6-4965-8CC4-D9198A067B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC9B188-D937-4689-8DAE-E4A106E9C8E3}
+	EndGlobalSection
+EndGlobal
